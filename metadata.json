@@ -1,0 +1,5 @@
+{
+  "name": "Asesor de Contenido para Instagram",
+  "description": "Una aplicación que genera ideas de publicaciones de Instagram para emprendedores utilizando IA. El usuario introduce su nicho de negocio y objetivo de comunicación, y la aplicación proporciona tres ideas de contenido completas, incluyendo título, texto, hashtags y sugerencias visuales.",
+  "requestFramePermissions": []
+}
