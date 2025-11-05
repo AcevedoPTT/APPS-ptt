@@ -1,9 +1,15 @@
-
 export interface PostIdea {
   titulo: string;
-  texto: string;
+  guion: {
+    gancho: {
+      texto: string;
+      busqueda_imagen_referencia: string;
+    };
+    desarrollo: string;
+    cta: string;
+  };
   hashtags: string[];
-  visual: string;
+  sugerencia_visual: string;
 }
 
 export interface IdeasResponse {
